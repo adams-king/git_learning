@@ -1,2 +1,2 @@
-# say hello
-readme
+# git_learning
+We are learning git
